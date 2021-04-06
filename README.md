@@ -11,3 +11,7 @@ scrapping the data from the flowster forum : https://forum.flowster.app/
 * Tags
 * Category of the post
 * Date of creation
+
+## NB :
+!! I m working to add a classification model using Bert from SimpleTransformers in order to build a post's category classifier
+
